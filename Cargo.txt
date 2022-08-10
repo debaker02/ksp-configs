@@ -1,0 +1,5 @@
+AARDV 9,000 kg = 2,100 Snacks
+PROGRESS 2,400 kg = 650 Snacks
+ATV 7,500 kg = 1750 Snacks
+Cygnus 2,000 kg = 560 Snacks
+
